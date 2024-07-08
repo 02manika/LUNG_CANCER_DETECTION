@@ -1,3 +1,4 @@
+these are requirements-
 pip install numpy
 pip install Pillow
 pip install Keras

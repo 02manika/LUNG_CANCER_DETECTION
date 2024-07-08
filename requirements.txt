@@ -1,0 +1,8 @@
+pip install numpy
+pip install Pillow
+pip install Keras
+pip install tensorflow
+pip install Flask
+pip install Werkzeug
+pip install gunicorn
+pip install efficientnet
